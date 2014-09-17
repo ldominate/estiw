@@ -595,6 +595,7 @@
 
 	</section>
 
+	<!-- Заказать обратный звонок -->
 	<div id="b-callback-popup" style="display: none;">
 		<div class="b-callback-popup_form">
 			<div class="b-left gradient">
@@ -619,6 +620,7 @@
 		</div>
 	</div>
 
+	<!-- Выбор города -->
 	<div id="b-town_choose" style="display: none;">
 		<div class="b-town_choose-popup">
 			<div class="b-town_choose-headline gradient">

@@ -1,6 +1,8 @@
 ### Страницы:
 
 `index.php - Главная страница`
+`news_list.php - Список новостей`
+`news_article.php - Новость`
 
 
 ### Стили:
@@ -12,8 +14,9 @@
 `css/dist/elements.less - less mixins, http://lesselements.com`  
 `css/dist/layout.less - стили шаблона (шаблон, header, footer, меню, правая колонка)`  
 `css/dist/index.less - стили элементов главной страницы (слайдер, новости)`  
-`css/dist/buttons.less - стили кнопок`  
+`css/dist/buttons.less - стили кнопок и ссылок`  
 `css/dist/popups.less - всплывающие окна (выбор города, заказать звонок)`  
+`css/dist/news.less - список новостей, новость, подписка на рассылку`  
 
 
 ### Скрипты:
