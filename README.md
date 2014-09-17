@@ -1,13 +1,10 @@
-## Estiw
-========
-
 ### Страницы:
-========
+
 `index.php - Главная страница`
 
 
 ### Стили:
-========
+
 `css/normalize.css - сorrects bugs and common browser inconsistencies`
 `https://github.com/necolas/normalize.css/`
 `css/ie.less - bugfix ie8/9`
@@ -21,7 +18,7 @@
 
 
 ### Скрипты:
-========
+
 `js/ie.js - bugfix ie8`
 `js/css3-mediaqueries.js - (https://github.com/livingston/css3-mediaqueries-js)`
 `js/jquery.min.js - jQuery v1.11.1`
