@@ -1,7 +1,7 @@
 ### Страницы:
 
-`index.php - Главная страница`
-`news_list.php - Список новостей`
+`index.php - Главная страница`  
+`news_list.php - Список новостей`  
 `news_article.php - Новость`
 
 
